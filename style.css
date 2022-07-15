@@ -33,3 +33,11 @@ span
 .btn-s{
   font-family: 'Roboto Slab', serif;
 }
+label
+{
+font-size: 14px;
+color: purple;
+background-color: white;
+border-radius: 10px;
+padding: 6px;
+}
